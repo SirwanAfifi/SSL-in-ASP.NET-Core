@@ -1,0 +1,10 @@
+/Users/sirwan/Desktop/Work/to_github/testingSSL/obj/Debug/netcoreapp2.0/testingSSL.csproj.CoreCompileInputs.cache
+/Users/sirwan/Desktop/Work/to_github/testingSSL/obj/Debug/netcoreapp2.0/testingSSL.AssemblyInfoInputs.cache
+/Users/sirwan/Desktop/Work/to_github/testingSSL/obj/Debug/netcoreapp2.0/testingSSL.AssemblyInfo.cs
+/Users/sirwan/Desktop/Work/to_github/testingSSL/bin/Debug/netcoreapp2.0/testingSSL.deps.json
+/Users/sirwan/Desktop/Work/to_github/testingSSL/bin/Debug/netcoreapp2.0/testingSSL.runtimeconfig.json
+/Users/sirwan/Desktop/Work/to_github/testingSSL/bin/Debug/netcoreapp2.0/testingSSL.runtimeconfig.dev.json
+/Users/sirwan/Desktop/Work/to_github/testingSSL/bin/Debug/netcoreapp2.0/testingSSL.dll
+/Users/sirwan/Desktop/Work/to_github/testingSSL/bin/Debug/netcoreapp2.0/testingSSL.pdb
+/Users/sirwan/Desktop/Work/to_github/testingSSL/obj/Debug/netcoreapp2.0/testingSSL.dll
+/Users/sirwan/Desktop/Work/to_github/testingSSL/obj/Debug/netcoreapp2.0/testingSSL.pdb
